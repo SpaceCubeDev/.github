@@ -1,4 +1,4 @@
-<div id="header" align="center"">
+<div id="header" align="center" style="color:#5470ff">
   <h1>▸ SpaceCube ◂</h1>
 
 Network Minecraft Free2Play joignable en version 1.12 > 1.18+\
@@ -6,23 +6,19 @@ Rejoignez-nous bientôt pour débuter une aventure hors du commun sur nos serveu
 
 </div>
 
+<hr />
+
 <div id="header" align="center">
-  <h2>Modes de jeu</h2>
+  <h2 style="border-bottom:0!important">Modes de jeu</h2>
 
-Skyblock\
-Op-Prison\
-Créatif\
-Parkour
+Skyblock ◆ Op-Prison ◆ Créatif ◆ Parkour
 
-Bedwars\
-BlockParty\
-BuildBattle\
-Dropper\
-Murderer\
-TheTowers\
+Bedwars ◆ BlockParty ◆ Build Battle ◆ Dropper ◆ Murderer ◆ TheTowers
 
 </div>
 
-<div id="header" align="center">
+<hr />
+
+<div id="header" align="center" style="color:#5470ff">
   <h1>▸ À très vite ◂</h1>
 </div>
