@@ -1,12 +1,32 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>▸ SpaceCube ◂</h1>
 
-<!--
+Network Minecraft Free2Play joignable en version 1.12 > 1.18+\
+Rejoignez-nous bientôt pour débuter une aventure hors du commun sur nos serveurs
 
-**Here are some ideas to get you started:**
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<hr />
+
+<div id="header" align="center">
+  <h2>Modes de jeu</h2>
+
+Skyblock\
+Op-Prison\
+Créatif\
+Parkour
+
+Bedwars\
+BlockParty\
+BuildBattle\
+Dropper\
+Murderer\
+TheTowers\
+
+</div>
+
+<hr />
+
+<div id="header" align="center">
+  <h1>▸ À très vite ◂</h1>
+</div>
