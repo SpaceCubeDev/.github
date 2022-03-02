@@ -6,8 +6,6 @@ Rejoignez-nous bientôt pour débuter une aventure hors du commun sur nos serveu
 
 </div>
 
-<hr />
-
 <div id="header" align="center">
   <h2 style="border-bottom:0!important">Modes de jeu</h2>
 
@@ -16,8 +14,6 @@ Skyblock ◆ Op-Prison ◆ Créatif ◆ Parkour
 Bedwars ◆ BlockParty ◆ Build Battle ◆ Dropper ◆ Murderer ◆ TheTowers
 
 </div>
-
-<hr />
 
 <div id="header" align="center" style="color:#5470ff">
   <h1>▸ À très vite ◂</h1>
