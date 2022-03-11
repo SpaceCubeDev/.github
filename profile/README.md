@@ -1,7 +1,7 @@
 <div id="header" align="center" style="color:#5470ff">
   <h1>▸ SpaceCube ◂</h1>
 
-Network Minecraft Free2Play joignable en version 1.12 > 1.18+\
+Network Minecraft Free2Play joignable en version 1.16 > 1.18+\
 Rejoignez-nous bientôt pour débuter une aventure hors du commun sur nos serveurs
 
 </div>
